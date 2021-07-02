@@ -2,4 +2,6 @@ n = abs(int(input("Введите n: ")))
 
 tot = (n + int(str(n) + str(n)) + int(str(n) + str(n) + str(n)))
 
+
+
 print(f"n + nn + nn = {tot}")
